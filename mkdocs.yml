@@ -1,0 +1,6 @@
+site_name: bootun.services
+site_url: https://docs.bootun.services/
+theme:
+  name: material
+plugins:
+  - search
